@@ -9,5 +9,7 @@ public class PrincipalApp {
     public static void holaquetal(){
         int numero=5;
         System.out.println("Hola que tal"+numero);
+        double decimal=4.5;
+        System.out.println("El decimal es: "+decimal);
     }
 }
