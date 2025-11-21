@@ -6,4 +6,8 @@ public class PrincipalApp {
         System.out.println("Viva españa");
 
     }
+    public static void holaquetal(){
+        int numero=5;
+        System.out.println("Hola que tal"+numero);
+    }
 }
