@@ -11,5 +11,9 @@ public class PrincipalApp {
         System.out.println("Hola que tal"+numero);
         double decimal=4.5;
         System.out.println("El decimal es: "+decimal);
+
+        int resultado=numero+(int)decimal;
+        System.out.println("El resultado es: "+resultado);
+        );
     }
 }
