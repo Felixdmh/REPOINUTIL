@@ -14,6 +14,7 @@ public class PrincipalApp {
 
         int resultado=numero+(int)decimal;
         System.out.println("El resultado es: "+resultado);
+        int[] numeros=new int[5];
         
     }
 }
